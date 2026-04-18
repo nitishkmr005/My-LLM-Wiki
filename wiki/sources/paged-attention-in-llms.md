@@ -14,7 +14,7 @@ tags:
 
 ## Source
 
-- File: [../../raw/inbox/Paged Attention in LLMs.md](../../raw/inbox/Paged%20Attention%20in%20LLMs.md)
+- File: [../../raw/inbox/Paged Attention in LLMs.md](Paged%20Attention%20in%20LLMs.md)
 - Nature: explanatory blog post / technical note
 
 ## Summary
@@ -53,4 +53,4 @@ The source explains how paged attention improves LLM serving efficiency by chang
 
 ## Sources
 
-- [../../raw/inbox/Paged Attention in LLMs.md](../../raw/inbox/Paged%20Attention%20in%20LLMs.md)
+- [../../raw/inbox/Paged Attention in LLMs.md](Paged%20Attention%20in%20LLMs.md)

@@ -2,7 +2,7 @@
 type: log
 status: active
 created: 2026-04-05
-updated: 2026-04-05
+updated: 2026-04-18
 tags:
   - log
   - operations
@@ -23,3 +23,9 @@ tags:
 - Created `wiki/home.md`, `wiki/index.md`, and this log.
 - Ingested the seed idea from `llm-wiki.md` into source and topic pages.
 - Left entity and analysis sections empty until real sources are added.
+
+## [2026-04-18] ingest | Speech Processing primers
+
+- Ingested the bundled local speech-processing clippings in `raw/Speech Processing/` into `wiki/sources/speech-processing-primers.md`.
+- Added topic pages for `speech processing`, `speech features`, `automatic speech recognition`, and `keyword spotting`.
+- Updated `wiki/index.md` so the new speech-processing cluster is discoverable for future queries.
